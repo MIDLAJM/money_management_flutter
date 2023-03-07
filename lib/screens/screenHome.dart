@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:money_management_flutter/dbFunctiones/categoryDb.dart';
-import 'package:money_management_flutter/modeles/categoryModel.dart';
 import 'package:money_management_flutter/screens/categoryAddPopUp.dart';
 import 'package:money_management_flutter/screens/screenAddTransaction.dart';
 import 'package:money_management_flutter/screens/screenCategory.dart';
